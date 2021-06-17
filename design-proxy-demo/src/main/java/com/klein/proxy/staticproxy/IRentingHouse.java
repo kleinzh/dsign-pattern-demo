@@ -1,4 +1,4 @@
-package org.example.proxy.staticproxy;
+package com.klein.proxy.staticproxy;
 
 /**
  * @Classname IRentingHouse

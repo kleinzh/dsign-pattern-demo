@@ -1,6 +1,4 @@
-package org.example.proxy.dynamicproxy;
-
-import java.lang.reflect.Proxy;
+package com.klein.proxy.dynamicproxy;
 
 /**
  * @author Klein
